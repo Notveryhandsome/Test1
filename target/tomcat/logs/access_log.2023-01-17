@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [17/Jan/2023:18:38:54 +0800] "GET / HTTP/1.1" 200 173 http-bio-8080-exec-1 180
+0:0:0:0:0:0:0:1 - - [17/Jan/2023:18:39:03 +0800] "GET /selectAllServlet HTTP/1.1" 200 1034 http-bio-8080-exec-3 3670
+0:0:0:0:0:0:0:1 - - [17/Jan/2023:19:15:11 +0800] "GET / HTTP/1.1" 304 - http-bio-8080-exec-1 290
+0:0:0:0:0:0:0:1 - - [17/Jan/2023:19:15:14 +0800] "GET /selectAllServlet HTTP/1.1" 200 1034 http-bio-8080-exec-3 1122
+0:0:0:0:0:0:0:1 - - [17/Jan/2023:19:15:17 +0800] "GET /brand-demo/selectByIdServlet?id=${brand.id} HTTP/1.1" 404 1007 http-bio-8080-exec-4 33
+0:0:0:0:0:0:0:1 - - [17/Jan/2023:19:19:58 +0800] "GET / HTTP/1.1" 304 - http-bio-8080-exec-1 117
+0:0:0:0:0:0:0:1 - - [17/Jan/2023:19:20:03 +0800] "GET /selectAllServlet HTTP/1.1" 200 1034 http-bio-8080-exec-3 1294
+0:0:0:0:0:0:0:1 - - [17/Jan/2023:19:25:14 +0800] "GET / HTTP/1.1" 304 - http-bio-8080-exec-1 147
+0:0:0:0:0:0:0:1 - - [17/Jan/2023:19:25:19 +0800] "GET /selectAllServlet HTTP/1.1" 200 1848 http-bio-8080-exec-3 2903
+0:0:0:0:0:0:0:1 - - [17/Jan/2023:19:30:07 +0800] "GET /selectAllServlet HTTP/1.1" 200 1950 http-bio-8080-exec-1 1123

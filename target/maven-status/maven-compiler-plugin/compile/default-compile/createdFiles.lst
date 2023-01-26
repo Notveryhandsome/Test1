@@ -1,0 +1,5 @@
+service/BrandService.class
+pojo/Brand.class
+web/selectAllServlet.class
+mapper/BrandMapper.class
+util/SqlSessionFactoryUtils.class
